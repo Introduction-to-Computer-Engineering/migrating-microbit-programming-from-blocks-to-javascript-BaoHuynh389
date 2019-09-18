@@ -96,6 +96,8 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
+_Test js file committed. Just a comment inside._
+
 **[etc.]**
 
 ## Designs
